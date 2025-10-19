@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenyaminAdineh
 - 👀 I’m interested in Coding and creat a interesting world with my cods
-- 🌱 I’m currently learning C#,Python
+- 🌱 I’m currently learning c++,C#,Python
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me | benyamin.1203077@gmail.com
 
